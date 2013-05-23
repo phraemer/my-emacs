@@ -3,6 +3,7 @@
 (desktop-save-mode 1)
 (remove-hook 'prog-mode-hook 'esk-turn-on-hl-line-mode)
 (setq-default tab-width 4)
+(setq js-indent-level 4)
 
 (setq-default ispell-program-name "aspell")
 
